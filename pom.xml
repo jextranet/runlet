@@ -25,6 +25,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.jextra</groupId>
     <artifactId>runlet</artifactId>
+    <name>runlet</name>
     <packaging>jar</packaging>
     <version>1.1.0-1</version>
 
